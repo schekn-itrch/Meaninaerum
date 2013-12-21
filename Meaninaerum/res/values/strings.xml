@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Meaninaerum</string>
+    <string name="name">name</string>
+    <string name="password">password</string>
+	<string name="log_in">Log in</string>
+	<string name="error">Error</string>
+	<string name="ok">OK</string>
+	<string name="wrong_password">Wrong password</string>
+	<string name="leaderboard">Leaderboard</string>
+	<string name="statistics">Statistics</string>
+	<string name="loading_dictionaries">Loading dictionaries</string>
+	<string name="please_wait">Please wait</string>
+	<string name="name_and_pass_required">Name and Password are required</string>
+	<string name="your_score">Your score:</string>
+	<string name="empty">No statistics yet</string>
+	<string name="dictionaries">Dictionaries</string>
+	<string name="tests">Tests</string>
+	
+</resources>
